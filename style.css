@@ -132,7 +132,7 @@ html {
     padding: 5rem;
   }
 
-  @media (max-width: 600px){
+  @media (max-width: 7500px){
 
     body{
         height: auto;
