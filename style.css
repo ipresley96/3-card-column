@@ -142,14 +142,11 @@ html {
     .container{
         display: block;
         margin: 3rem auto;
+        width: 50%;
     }
 
     p{
         margin: 2rem 0 2rem 0;
-      }
-      
-      .card{
-        padding: 3rem;
       }
 
       .orange{
