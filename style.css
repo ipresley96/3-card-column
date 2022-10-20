@@ -32,7 +32,7 @@ html {
   }
 
   body{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     height: 100vh;
     font-family: 'Fraunces', serif;
     font-weight: 300;
@@ -70,7 +70,7 @@ html {
   }
 
   .container{
-    width: 70%;
+    width: 80rem;
     margin: 0 auto;
     display: flex;
   }
