@@ -128,8 +128,6 @@ html {
     border: 1px solid var(--paragraph-color);
   }
 
-
-
   .card{
     padding: 5rem;
   }
@@ -139,6 +137,8 @@ html {
     body{
         height: auto;
     }
+      
+      
     .container{
         display: block;
         margin: 3rem auto;
